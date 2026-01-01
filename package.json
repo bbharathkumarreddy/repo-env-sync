@@ -7,6 +7,14 @@
     "repo-env-sync": "./bin/cli.js"
   },
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbharathkumarreddy/repo-env-sync"
+  },
+  "bugs": {
+    "url": "https://github.com/bbharathkumarreddy/repo-env-sync/issues"
+  },
+  "homepage": "https://github.com/bbharathkumarreddy/repo-env-sync#readme",
   "scripts": {
     "test": "node ./bin/cli.js"
   },
