@@ -1,5 +1,5 @@
 {
-  "name": "@bbharathkumarreddy/repo-env-sync",
+  "name": "repo-env-sync",
   "author": "Bharath Kumar Reddy",
   "version": "1.0.0",
   "description": "Sync repository environment variables and secrets to GitHub and Bitbucket",
